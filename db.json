@@ -25,43 +25,36 @@
             "category": 2,
             "id": 4,
             "name": "Hotel Hilton",
-            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/pXWbMWC/pexels-pixabay-164595.jpg"
+            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent."
         },
         {
             "category": 2,
             "id": 5,
             "name": "Green Leaf Resort",
-            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/sjWPNYH/Rectangle-27.png"
-        },
+            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent."
         {
             "category": 2,
             "id": 6,
             "name": "Hotel Skypark",
             "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/Hzpksrk/pexels-curtis-adams-4119831.jpg"
         },
         {
             "category": 3,
             "id": 7,
             "name": "Prakrity Village Resort Sundarbans",
-            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/VjFrV34/pexels-engy-naguib-2255424.jpg"
+            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent."
         },
         {
             "category": 3,
             "id": 8,
             "name": "Sunderban Tiger Camp- Wildlife Resort",
             "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/pXWbMWC/pexels-pixabay-164595.jpg"
         },
         {
             "category": ,
             "id": 9,
             "name": "Sundarban Royal Eco Resort",
-            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
-            "img": "https://i.ibb.co/sjWPNYH/Rectangle-27.png"
+            "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent."
         }
     ]
 }
