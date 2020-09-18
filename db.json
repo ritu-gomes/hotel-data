@@ -1,5 +1,5 @@
-{
-    "hotels":[
+
+    [
         {
             "category": 1,
             "id": 1,
@@ -7,5 +7,4 @@
             "body": "Has a restaurant, outdoor swimming pool, a fitness centre and bar. This 5-star hotel features free WiFi and a garden. Very nice hotel. The staff at check in desk were excellent.",
             "img": "https://i.ibb.co/sjWPNYH/Rectangle-27.png"
         }
-        ]
-}
+    ]
